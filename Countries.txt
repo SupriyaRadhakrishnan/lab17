@@ -1,0 +1,5 @@
+China:900
+India:1000
+Albania:145
+Beruit:111
+USA:324
